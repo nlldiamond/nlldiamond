@@ -6,7 +6,7 @@ I'm a 23-year-old tech enthusiast passionate about IT and software development. 
 
 * 💻 Aspiring IT professional focused on building a successful career in technology.
 * 🔧 Skilled in troubleshooting, web development, and problem-solving.
-* 📊 Currently learning and improving React, TypeScript, Vite, Tailwind CSS, JavaScript, HTML5, CSS3, REST APIs, and NPM scripts.
+* 📊 Currently learning and improving React, TypeScript, Vite, Tailwind CSS, JavaScript, HTML5, CSS3, REST APIs, MongoDB, and NPM scripts.
 
 ## Skills & Tools
 
